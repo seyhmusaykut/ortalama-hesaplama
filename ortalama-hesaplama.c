@@ -1,26 +1,3 @@
-/*
-Öðrencinin derste aldýðý iki ara sýnav, bir ödev ve bir final sýnavý notlarýný okuyan ve girilen notlara göre harf notu hesaplayan program.
-
-*Notlar 100 üzerinden verilmiþtir.++
-*Final sýnavýndan 50'nin altýnda not alan öðrenci direkt F notu almaktadýr.
-*Programa 0-100 aralýðý dýþýnda not girildiðinde uyarý verecektir. +
-
-Sýnavlarýn baþarý notuna katkýsý þöyledir:
-
-1. Ara Sýnav %15++
-2. Ara Sýnav %20++
-Ödev %20++
-Final %45++
-
-Baþarý notuna karþýlýk gelen harf notlarý:
-
-85-100 A++
-75-84 B++
-60-74 C++
-50-59 D++
-49 ve altý F++
-
-*/
 #include <stdio.h>
 main()
 {
